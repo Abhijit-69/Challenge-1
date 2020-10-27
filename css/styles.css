@@ -1,0 +1,154 @@
+body{
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h3{
+  margin: 0;
+}
+
+h1{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+}
+
+h2{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  font-size: 80px;
+  margin: 0;
+}
+
+p{
+  margin: 0 auto;
+}
+
+.top-container{
+  padding: 80px 10% 100px;
+  text-align: center;
+  position: relative;
+}
+
+.middle-container{
+}
+
+.bottom-container{
+  background-color: hsl(192, 100%, 9%);
+  color: white;
+}
+
+.top-line{
+  width: 100%;
+  margin: 0;
+  position: relative;
+  top: 0.4rem;
+}
+
+.bottom-line{
+  width: 100%;
+  margin: 0;
+}
+
+.mock{
+  width: 90%;
+  margin: 170px auto 95px;
+}
+
+.illustration-blue{
+  width: 45%;
+  margin-left: 10%;
+}
+
+.illustration-white{
+  width: 45%;
+  margin-right: 11%;
+}
+
+.blue-bg{
+  background-color: hsl(207, 100%, 98%) ;
+  display: flex;
+  padding: 3% 9%;
+}
+
+.white-bg{
+  display: flex;
+  padding: 8% 9%;
+}
+
+.top{
+  display: flex;
+}
+
+.servay{
+  margin: 0 auto;
+  text-align: left;
+}
+.communities-image{
+  position: relative;
+  top: 0.5rem;
+  width: 20%;
+}
+.messages-image{
+  position: relative;
+  top: 0.5rem;
+  left: 0.3rem;
+  width: 15%;
+}
+
+.btn1 {
+  border-radius: 50px;
+  font-family: 'Open Sans', sans-serif;
+  color: hsl(322, 100%, 66%);
+  font-size: 17px;
+  padding: 10px 35px 10px 35px;
+  border: solid hsl(322, 100%, 66%) 2px;
+  text-decoration: none;
+  position: absolute;
+  right: 5%;
+}
+
+.btn2 {
+  border-radius: 100px;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+  background: hsl(322, 100%, 66%);
+  padding: 20px 80px 20px 80px;
+  text-decoration: none;
+  position: relative;
+  top: 60px;
+}
+
+.btn3 {
+  border-radius: 100px;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+  background: hsl(322, 100%, 66%);
+  padding: 20px 80px 20px 80px;
+  text-decoration: none;
+  position: relative;
+  top: 30px;
+}
+
+.discription{
+  padding: 9% 0;
+}
+
+.center{
+  padding: 9% 9% 15%;
+  text-align: center;
+}
+
+.build{
+  margin-top: 250px;
+}
+
+.head-line{
+  width: 45%;
+}
+
+.logo{
+  height: 35px;
+  position: absolute;
+  left: 5%;
+}
